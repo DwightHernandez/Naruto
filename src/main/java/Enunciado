@@ -1,0 +1,15 @@
+Aplicación en Java
+Implemente una aplicación en Java que ofrezca las siguientes funcionalidades:
+• Listar todos los ninjas junto con sus habilidades.
+• Mostrar las misiones disponibles para un ninja específico.
+- Mostras las misiones completadas para un ninja específico.
+- Asignar una misión a un ninja, registrando la fecha de inicio.
+- Marcar una misión como completada, registrando la fecha de finalización.
+• Mostrar todas las misiones completadas (funcionalidad descrita en el apartado de archivos de texto)
+Utilice conexiones JDBC para acceder a la base de datos y aplique principios y patrones de diseño, donde sea apropiado.
+Diseñe una interfaz por consola que permita a los usuarios interactuar de manera clara y amigable con la aplicación. Proporcione mensajes descriptivos y menús para guiar al usuario.
+Manejo de Archivos de Texto
+Implemente la funcionalidad para guardar y cargar datos de las misiones completadas desde archivos de texto. Es decir, guarde en un archivo de texto las misiones completadas y cree una funcionalidad en el menú para consultar las misiones completadas desde el archivo de texto. Asegúrese de gestionar posibles errores y proporcionar mensajes informativos.
+Instrucciones generales
+• Proporcione comentarios detallados en su código para explicar la lógica y los enfoques utilizados.
+• El examen tiene una duración máxima de 8 horas.
